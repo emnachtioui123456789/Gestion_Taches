@@ -76,7 +76,7 @@ def modifier_tache():
 # 5. Menu principal
 def menu():
     while True:
-        print("\n===== GESTION DES TACHES =====")
+        print("\n==== GESTION DES TACHES ====")
         print("1. Ajouter une tâche")
         print("2. Afficher les tâches")
         print("3. Rechercher une tâche")
